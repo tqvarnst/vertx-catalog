@@ -67,6 +67,8 @@ local.properties
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+.idea/compiler.xml
+.idea/vcs.xml
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
@@ -94,6 +96,7 @@ cmake-build-debug/
 
 # IntelliJ
 /out/
+.idea
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
